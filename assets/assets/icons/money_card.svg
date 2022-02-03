@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45.53" height="39.026" viewBox="0 0 45.53 39.026">
+  <g id="money" transform="translate(-2.25 -4.5)">
+    <path id="Path_46" data-name="Path 46" d="M2.25,24.75H47.78V28H2.25Z" transform="translate(0 9.019)" fill="#ffb83e"/>
+    <path id="Path_47" data-name="Path 47" d="M2.25,29.25H47.78V32.5H2.25Z" transform="translate(0 11.024)" fill="#ffb83e"/>
+    <path id="Path_48" data-name="Path 48" d="M28,11.25A3.252,3.252,0,1,0,31.254,14.5,3.252,3.252,0,0,0,28,11.25Z" transform="translate(10.022 3.006)" fill="#ffb83e"/>
+    <path id="Path_49" data-name="Path 49" d="M20,22.009a6.5,6.5,0,1,1,6.5-6.5,6.5,6.5,0,0,1-6.5,6.5Zm0-9.756A3.252,3.252,0,1,0,23.256,15.5,3.252,3.252,0,0,0,20,12.252Z" transform="translate(5.011 2.004)" fill="#ffb83e"/>
+    <path id="Path_50" data-name="Path 50" d="M10,11.25A3.252,3.252,0,1,0,13.254,14.5,3.252,3.252,0,0,0,10,11.25Z" transform="translate(2.004 3.006)" fill="#ffb83e"/>
+    <path id="Path_51" data-name="Path 51" d="M44.528,30.517H5.5A3.261,3.261,0,0,1,2.25,27.265V7.752A3.261,3.261,0,0,1,5.5,4.5H44.528A3.261,3.261,0,0,1,47.78,7.752V27.265a3.257,3.257,0,0,1-3.252,3.252Zm0-22.765H5.5V27.265H44.528Z" transform="translate(0)" fill="#ffb83e"/>
+  </g>
+</svg>

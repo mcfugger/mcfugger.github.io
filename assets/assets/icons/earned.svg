@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.711" height="26.322" viewBox="0 0 31.711 26.322">
+  <g id="Group_134" data-name="Group 134" transform="translate(-79.618 -585.042)">
+    <path id="money" d="M6.071,7.5H30.64a3.071,3.071,0,0,1,3.071,3.071V25.927A3.071,3.071,0,0,1,30.64,29H6.071A3.071,3.071,0,0,1,3,25.927V10.571A3.071,3.071,0,0,1,6.071,7.5Zm21.5,3.071H9.142a3.071,3.071,0,0,1-3.071,3.071v9.213a3.071,3.071,0,0,1,3.071,3.071H27.569a3.071,3.071,0,0,1,3.071-3.071V13.642A3.071,3.071,0,0,1,27.569,10.571ZM12.213,13.642h3.071v9.213H12.213Zm9.213,6.142a1.536,1.536,0,1,0-1.536-1.536A1.536,1.536,0,0,0,21.427,19.784Zm0,3.071a4.607,4.607,0,1,1,4.607-4.607A4.607,4.607,0,0,1,21.427,22.856Z" transform="translate(76.618 577.542)" fill="#fff"/>
+    <g id="Group_133" data-name="Group 133" transform="translate(94.124 597.686)">
+      <rect id="Rectangle_45" data-name="Rectangle 45" width="17" height="12" transform="translate(-0.412 0.105)" fill="#66d894"/>
+      <line id="Line_5" data-name="Line 5" x2="15" transform="translate(2.205 3.859)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_6" data-name="Line 6" x2="15" transform="translate(2.205 8.268)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_7" data-name="Line 7" x2="7.5" transform="translate(2.205 12.678)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

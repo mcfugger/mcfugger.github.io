@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66.805" height="66.805" viewBox="0 0 66.805 66.805">
+  <defs>
+    <filter id="play-filled" x="0" y="0" width="66.805" height="66.805" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#ffb83e"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_96" data-name="Group 96" transform="translate(-63.935 -504.195)">
+    <g id="Group_95" data-name="Group 95" transform="translate(-29 -78.902)">
+      <g transform="matrix(1, 0, 0, 1, 92.94, 583.1)" filter="url(#play-filled)">
+        <path id="play-filled-2" data-name="play-filled" d="M26.652,2.25a24.4,24.4,0,1,0,24.4,24.4A24.4,24.4,0,0,0,26.652,2.25ZM39.69,28.186,20.517,38.644a1.709,1.709,0,0,1-2.58-1.534V16.194a1.725,1.725,0,0,1,2.6-1.5L39.707,25.153a1.743,1.743,0,0,1,0,3.068Z" transform="translate(6.75 3.75)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
